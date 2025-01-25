@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Session Hero",
+  "version": "1.0",
+  "description": "Save and restore Chrome windows, tabs, and tab groups",
+  "permissions": [
+    "tabs",
+    "tabGroups",
+    "storage"
+  ],
+  "action": {
+    "default_title": "Session Hero"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+} 
