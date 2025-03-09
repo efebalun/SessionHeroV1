@@ -11,7 +11,6 @@ Session Hero is a powerful *Chrome extension* tab manager designed to help you s
 ## Screenshots
 
 ![Screenshot](assets/screenshot-01.png)
-![Screenshot](assets/screenshot-02.png)
 
 ## Features
 
@@ -25,11 +24,11 @@ Ready to revolutionize your browsing experience? Try Session Hero today and disc
 
 ## Development
 
-This project use inlnie React script with old scroll manual labor. No build tools, no npm run or build. Only elbow greese.
+This project includes React and ReactDOM via script tags. No build tools, no npm run, no build—just elbow grease.
 
-Make some changes, zip everything, go to Chrome > Extensions and use "Load unpacked" button to test right away.
+To test immediately, zip everything, go to Chrome > Extensions, and click "Load unpacked".
 
-To make it publish ready, go to Chrome > Extensions and use "Pack extension" button.
+To make it publish-ready, go to Chrome > Extensions and click "Pack extension".
 
 ## License
 
