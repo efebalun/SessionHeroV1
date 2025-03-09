@@ -1,21 +1,19 @@
-# Session Hero - Chrome Extension
+# Session Hero
 
 Simplify Your Browsing Experience
 
-Save and restore Chrome windows, tabs, and tab groups
+Session Hero is a powerful *Chrome extension* tab manager designed to help you stay organized and productive while browsing. With advanced features and intuitive controls, it's the perfect tool for taming tab chaos.
 
-Session Hero is a powerful tab manager designed to help you stay organized and productive while browsing. With advanced features and intuitive controls, it's the perfect tool for taming tab chaos.
+## Instal
+
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/kibobmmddjopjldpcopkpjhadbkopagg)](https://chromewebstore.google.com/detail/session-hero/kibobmmddjopjldpcopkpjhadbkopagg)
 
 ## Screenshots
 
 ![Screenshot](assets/screenshot-01.png)
 ![Screenshot](assets/screenshot-02.png)
 
-# Download
-
-https://chromewebstore.google.com/detail/session-hero/kibobmmddjopjldpcopkpjhadbkopagg
-
-## Key Features:
+## Features:
 
 - Save and Organize Tabs, Tab Groups and Windows: Group your open tabs into collections for easy restoration later.
 - Tab Group Support: Group tabs into categories within collections for even greater organization and efficiency.
